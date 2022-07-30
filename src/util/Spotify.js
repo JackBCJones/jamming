@@ -1,4 +1,4 @@
-const clientId = 'bb5d3e37902947d8820ad0aa83a5d1a3';
+const clientId = '';
 const redirectUri = 'http://localhost:3000/callback/';
 let accessToken;
 
